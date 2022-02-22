@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody news from Shrewsbury being a true and perfect relation of a horrible villain, by name Thomas Renolds ... he before he was eighteen years of age, murdered Alice Stephens, and her daughter ... for all which, and many other smaller facts ... he was condemned and hanged in chains at Shrewsbury the 14th day of March, 1672/3.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28422</idno>
+            <idno type="STC">Wing B3279</idno>
+            <idno type="STC">ESTC R35350</idno>
+            <idno type="EEBO-CITATION">15261014</idno>
+            <idno type="OCLC">ocm 15261014</idno>
+            <idno type="VID">103301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103301)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1143:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody news from Shrewsbury being a true and perfect relation of a horrible villain, by name Thomas Renolds ... he before he was eighteen years of age, murdered Alice Stephens, and her daughter ... for all which, and many other smaller facts ... he was condemned and hanged in chains at Shrewsbury the 14th day of March, 1672/3.</title>
+               </titleStmt>
+               <extent>6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Burton and P. Brooksby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reynolds, Thomas, d. 1673.</term>
+               <term>Stephens, Alice, d. 1673.</term>
+               <term>Murder --  England --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103301:1" rendition="simple:additions"/>
+            <p>Bloody Nevvs FROM SHREWSBURY, BEING A True and Perfect Relation of a Hor<g ref="char:EOLhyphen"/>rible Villain, by Name <hi>Thomas Re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nolds,</hi> who <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ately lived at <hi>Aldow,</hi> neer <hi>Ludlow,</hi> in the County of <hi>Sal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p.</hi>
+            </p>
+            <p>He before he was Eighteen years of Age, Murdered <hi>Alice St<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>phens,</hi> and her Daughter <hi>Martha,</hi> Cutting their Throats, as they were aſleep, and having done, ſet their houſe on fire, which con<g ref="char:EOLhyphen"/>ſumed ſeveral of the adjacent Houſes.</p>
+            <p>He likewiſe ſet on fire one Goodman <hi>Merick</hi>'s Houſe, while he, his Wife, and one Child difficultly eſca<g ref="char:EOLhyphen"/>ped through the Flames.</p>
+            <p>Alſo he twice attempted to Murder one Mis. <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rfeilds,</hi> but was diſappointed; for all which, and many o<g ref="char:EOLhyphen"/>ther ſmaller facts, as Robbery, Burglary, &amp;c. He was Condemned and Hanged in Chains at <hi>Shrewſ<g ref="char:EOLhyphen"/>bury</hi> the 14th. day of <hi>March,</hi> 1672/3</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Burton,</hi> and <hi>P. Brooksby,</hi> next Doors to the Ball in <hi>Weſt-Smith-field.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103301:2"/>
+            <pb facs="tcp:103301:2"/>
+            <head>Bloody News From Shrevvsbury.</head>
+            <p>AT <hi>Aldow,</hi> in the Pariſh of <hi>Steak-Sag,</hi> neer unto <hi>Lud<g ref="char:EOLhyphen"/>low,</hi> in the County of <hi>Salop,</hi> there lived a fellow about eighteen years of age, and though he were mean enough in his Parentage, Habit, and Edu<g ref="char:EOLhyphen"/>cation, yet no way deſpicable, except in his lewd life, and ſhameful death. His name was <hi>Thomas Reynols,</hi> eminent for Pilfering, even from his Child-hood, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich he had ever an audacious and peremptory way of denying. And as he increaſed in years, ſo he did not only in inclinations to do ill, but alſo in ſubtilty and ſtrength, to proſecute the projects, which his wicked heart daily ſuggeſted to him, and to which his ſubtile head conti<g ref="char:EOLhyphen"/>nually ſhewed him the way. Being grown to the Age of Sixteen, he became a notable hardy and ſturdy Villain, excellently ſubtile in contriving, and admi<g ref="char:EOLhyphen"/>rably audacious in proſecuting any miſchiefs whatſo<g ref="char:EOLhyphen"/>ever.
+<pb n="2" facs="tcp:103301:3"/> Some of the moſt eminent you find in this Rela<g ref="char:EOLhyphen"/>tion, from which it will not be very difficult to gueſs at the reſt.</p>
+            <p>Upon the Sixteenth day of <hi>February</hi> 1673 he was ob<g ref="char:EOLhyphen"/>ſerved to riſe very early in the morning, before, or as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oon as ever the day began to appear; and being asked what buſineſs he had to do ſo timely, he either anſwered churliſhly, or doubtfully, but however, went away with a reſolution of doing a Villany, that my hand ſhakes to Write of, and will I believe, make many a mans heart ake to read.</p>
+            <p>There lived at that time, in the ſame Pariſh, one <hi>John Stephens,</hi> and he was a very honeſt laborious man in his Calling; it ſeems he was a day labourer, and uſually went abroad every morning early to ſome or other of his Maſters thereabout to work, which he did this morning, as formerly he had done, leaving <hi>Alice</hi> his Wife, and his only Daughter <hi>Martha</hi> at home, to ſuch employments as became people of their degree and Sex: this was perceived and obſerved by our hatcher of Wickedneſs, the wretched <hi>Thomas Reynols,</hi> who being informed by others, or fancying of himſelf that there might be ſomething in <hi>Stephen</hi>'s houſe, worth the put<g ref="char:EOLhyphen"/>ting in practice of this his murderous deſign, animated by the Devil, or (what was almoſt as bad) by his own diabolical and miſchievous heart, he enters the houſe, about ſeven of the Clock in the Morning, and bring<g ref="char:EOLhyphen"/>ing with him a large <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nife made very ſharp, for that purpoſe, goes to their bed-ſide, and while they (poor wretches) were aſleep, not thinking of doing harm, or dreaming, of reciving any, this bloody Miſcreant taking firſt the Mother, and afterwards the Daughter by the throat, he cuts them clean through the Wind-pipe, whence iſſued forth ſuch a fierce torrent of blood, as flew all about the face and cloaths of the Murderer, as if it had
+<pb n="3" facs="tcp:103301:3"/> deſigned to diſcover, or (according to its power) to revenge the injury done to thoſe bodies, to whom it had for many years been ſo friendly a Gueſt: but though at preſent its endeavours are too weak to effect its deſired revenge, till Gods time is come; yet in the mean while it crys loud for it, ſo loud that one time or other, the crys ſhall be aſſuredly heard; as you ſhall ſee hereafter.</p>
+            <p>After this bloody Fact, the Author of it thinking himſelf unſafe, and imagining, that ſhould the dead bodies be found in that gaſtly manner he might in time be diſcovered, he hardens himſelf in his Wicked<g ref="char:EOLhyphen"/>edneſs; and to ſecure all, goes with a Fire-brand <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ſeen, and ſets fire to the houſe, till it was all in Flames, which not only conſumed three or four of the adjacent houſes, but alſo the body of the murdered Gueſts it did contain.</p>
+            <figure/>
+            <pb n="4" facs="tcp:103301:4"/>
+            <p>Thus did that place which was a Shelter and Sanctu<g ref="char:EOLhyphen"/>ary to the living, prove a Grave, or rather an Urne to the dead, and they who before had preſerved its Roof, then fed its Flames.</p>
+            <p>And now our bloody wretch thinking his Villany to have been conſumed in thoſe Flames it cauſed, goes to a Well to waſh away the ſubſtance of the Blood, but not the guilt of it. And having given himſelf imagi<g ref="char:EOLhyphen"/>nary abſolutions, he adventures boldly to behold his own Fires, as ever <hi>Nero,</hi> whom he out-did even in Cruelty.</p>
+            <p>Encouraged by this (as he called it) happy ſucceſs, he thought himſelf in a very fair way to get an eſtate (as we ſay) out of the Fire, and therefore reſolves to put in practice the Husbandry I have obſerved in ſome Countries, believing he might better his Eſtate by burn<g ref="char:EOLhyphen"/>ing. To this purpoſe he reſolves upon a deſign in all Circumſtances exactly tallying the former, but only in the ſucceſs of it.</p>
+            <p>There lived not far from this place one Goodman <hi>Merick,</hi> whoſe manner of life and other circumſtances I (for brevities ſake) omit, as not pertinent to our pre<g ref="char:EOLhyphen"/>ſent Relation, ſuppoſing it ſufficient to acquaint you that this <hi>Thomas Renolds</hi> with inventions equally bloody, and deſigns altogether as cunning, while the ſaid <hi>Merick,</hi> together with his Wife and one Child were all in bed, ſets fire to the houſe, which imediately, being Thatch, becomes a body of Flames, and the firſt Summons that the inhabitants received was an aſtoniſhing noiſe of Flame, which yet hardly appeared through the thick Clouds of ſmoak; <hi>Merick</hi> newly awakned, is ſtrangely ſurpriſed, as well with the unexpec<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>neſs, as d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ger of the ac<g ref="char:EOLhyphen"/>cident.</p>
+            <pb n="5" facs="tcp:103301:4"/>
+            <p>But be is no Salamander, he cannot ſtay there, nor had he leiſure to conſult how to go, but on a ſuddain takes up his Wife and Child, and carries them through the flames in the Sheet they lay upon: which had he not done with ſtrange dexterity and ſtrength, they had doubtleſs found there, both a Death-bed, and a Winding-ſheet, and had become like the former, as it were, Sa<g ref="char:EOLhyphen"/>crifices to his Cruelty.</p>
+            <p>To what intent he acted this hainous Fact, whether out of Malice, or deſign of Gain, is not known: But cer<g ref="char:EOLhyphen"/>tainly what ever his deſigns were, the means he made uſe of to accompliſh them, were the moſt unheard of, and Tragical, that any ſtory mentions.</p>
+            <p>After this he breaks open another Neighbours Houſe, while the people were abroad, and not finding in it a Booty anſwerable to his expectations, he falls to work with a Barrel of Metheglin they had in the Houſe, of which he taſted ſo plentifully, that he became very Drunk: Yet was he ſo cunning as to retreat into an adjoyning Barn, belonging to one Mr. <hi>Baughs;</hi> where he was Apprehended, and immediately committed by a Ju<g ref="char:EOLhyphen"/>ſtice of Peace to <hi>Shrewsbury</hi> Goal: Where he received his Tryal the 11th. of this Inſtant <hi>March,</hi> And by his own Conf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion he was found Guilty of all the fore<g ref="char:EOLhyphen"/>mentioned Facts.</p>
+            <p>Together with the cruelty he had plotted againſt the Wife of one Mr. <hi>Corfeilds</hi> of <hi>Ferny-hall,</hi> whom he had twice attempted to Murder, but her Husband being at home, he was diſappointed.</p>
+            <pb n="6" facs="tcp:103301:5" rendition="simple:additions"/>
+            <p>But thoſe he had the misfortune to effect, were ſufficient to entitle him to the Gibbet; and accordingly Sentence was paſſed on him the 13th<g ref="char:punc">▪</g> of the ſame <hi>March,</hi> to be Hanged in Chains, which was Executed on the morrow accordingly.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
